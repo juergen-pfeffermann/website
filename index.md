@@ -17,3 +17,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   title="a random snap from PyMol (Schrödinger)"
   text=text
 %}
+
+{:.center} {% endcapture %}
