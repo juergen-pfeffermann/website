@@ -2,15 +2,14 @@
 title: Website
 ---
 
-{% include section.html %}
-
 # Acknowledgment
 
-{% capture text %} Thanks to **github.com/greenelab** for providing this template! If I decide to continue working on this website I shall give you some feedback on how intuitive I find working with the template and your documentation.
+Thanks to **github.com/greenelab** for providing this template! If I decide to continue working on this website I shall give you some feedback on how intuitive I find working with the template and your documentation.
 
 Kind regards,
-Juergen Pfeffermann{:.center}{% endcapture %}
+Juergen Pfeffermann
 
+{% include section.html full=true %}
 {% include section.html %}
 
 # PDB 3din: SecYEG + SecA (tyrosines in SecA are highlighted)
