@@ -1,7 +1,7 @@
 ---
 name: Rohit Yadav
 image: images/rohit.jpg
-description: Doing the thing: Planar bilayer + KvAP!
+description: Doing the thing. Planar bilayer + KvAP!
 role: phd
 aliases:
   -
