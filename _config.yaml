@@ -3,8 +3,8 @@
 # site properties and page defaults
 title: Test
 description: Will that work?
-header: images/background.jpg
-footer: images/background.jpg
+header: none
+footer: none
 baseurl: /website
 
 # site social media and other links
