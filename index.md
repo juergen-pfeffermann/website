@@ -2,6 +2,8 @@
 title: Website
 ---
 
+{% include section.html %}
+
 # Acknowledgment
 
 {% capture text %} 
