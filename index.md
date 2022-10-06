@@ -6,12 +6,10 @@ title: Website
 
 # Acknowledgment
 
-{% capture text %} 
-Thanks to **github.com/greenelab** for providing this template! If I decide to continue working on this website I shall give you some feedback on how intuitive I find working with the template and your documentation.
+{% capture text %} Thanks to **github.com/greenelab** for providing this template! If I decide to continue working on this website I shall give you some feedback on how intuitive I find working with the template and your documentation.
 
 Kind regards,
-Juergen Pfeffermann
-{:.center}{% endcapture %}
+Juergen Pfeffermann{:.center}{% endcapture %}
 
 {% include section.html %}
 
