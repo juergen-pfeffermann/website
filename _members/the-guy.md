@@ -1,6 +1,6 @@
 ---
-name: Rohit Yadav
-image: images/rohit.jpg
+name: The Guy
+image: images/theguy.jpg
 description: Doing the thing. Planar bilayer + KvAP!
 role: phd
 aliases:
@@ -8,11 +8,13 @@ aliases:
   -
 links:
   home-page: https://www.linkedin.com/in/rohit-yadav-bab103147/?originalSubdomain=at
-  email: rohit.yadav@jku.at
+  email: the.guy@jku.at
   github: none
 ---
 
-This is Rohit. Rohit is doing the thing!
+# This member is anonymous now!
+
+This is the Guy. The Guy is doing the thing!
 
 The following image is taken from A. Anishkin, S. H. Loukin, J. Teng, C. Kung, Feeling the hidden mechanical forces in lipid bilayer is an original sense. _Proceedings of the National Academy of Sciences 111_, 7898-7905 (2014). **Please dont sue me!**
 
