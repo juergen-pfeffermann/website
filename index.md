@@ -7,8 +7,7 @@ title: Website
 # SecYEG + SecYEG, PDB 3din
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. {:.center} {% endcapture %}
+Look at this, I have been using PyMol a bit today. I have usually found detailed discussions on minute movements within crystal or cryo-EM structures tedious, yet following these elaborations by simultaneously reproducing them in PyMol could help. {:.center} {% endcapture %}
 
 {%
   include feature.html
