@@ -4,8 +4,8 @@
 title: MTGgroup
 subtitle: Membrane Transport Group
 description: Our website.
-logo: false
-logo-text: false
+logo: true
+logo-text: true
 header: none
 footer: none
 header-dark: true
