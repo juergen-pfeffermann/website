@@ -7,8 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+The [Membrane Transport Group](https://www.jku.at/institut-fuer-biophysik/ueber-uns/team/membrane-transport) at the [Institute of Biophysics](https://www.jku.at/institut-fuer-biophysik/) is part of the [Faculty of Engineering and Natural Sciences](https://www.jku.at/en/faculty-of-engineering-natural-sciences/) of the [Johannes Kepler University Linz](https://www.jku.at/en). To the surprise of many students who first seek to attend lectures at our institute, the [Life Science Center](https://www.jku.at/en/campus/the-jku-campus/buildings/life-science-center/) where we are housed is situated at Gruberstraße 40 near the city center of Linz and about 20 minutes from the main campus. Our group has labs at the ...
 
 {%
   include link.html
