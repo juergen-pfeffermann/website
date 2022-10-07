@@ -1,15 +1,20 @@
 ### basic settings
 
 # site properties and page defaults
-title: Home
-description: This is the website.
+title: MTGgroup
+subtitle: Membrane Transport Group, Institute of Biophysics, JKU Linz
+description: Our website.
+logo: false
+logo-text: false
 header: none
 footer: none
+header-dark: true
+footer-dark: true
 baseurl: /website
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
+  email: e.mail@jku.at
   google-scholar: Jane Smith
   github: your-lab
   twitter: YourLabHandle
@@ -22,6 +27,9 @@ links:
 auto-cite:
   plugins:
     - name: sources
+      input:
+        - ../_data/sources.yaml
+    - name: orcid
       input:
         - ../_data/sources.yaml
   output: ../_data/citations.yaml
