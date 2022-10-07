@@ -10,7 +10,7 @@ h2,
 h3,
 h4 {
   font-family: $sans;
-  font-weight: $medium;
+  font-weight: $semi-bold;
   line-height: $spacing - 0.3;
   margin: 40px 0 20px 0;
   @include trim-v-margins;
@@ -24,7 +24,7 @@ h1 {
   text-align: center;
 
   & + p {
-    margin-top: 40px;
+    margin-top: 30px;
   }
 }
 

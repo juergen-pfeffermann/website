@@ -11,7 +11,7 @@
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
-  color: $gray-500;
+  color: $gray-600;
   font-family: $sans;
   font-size: 0.9rem;
 
@@ -20,7 +20,7 @@
   }
 
   .role_description {
-    // font-style: italic;
+    //font-style: italic;
   }
 
   @media (max-width: $phone) {

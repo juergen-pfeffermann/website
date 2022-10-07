@@ -11,4 +11,4 @@ header-dark: false
 footer-dark: false
 ---
 
-Some text written in Markdown for the Awards page.
+Some text written in Markdown for the Awards page. Does this still update?

@@ -18,6 +18,8 @@ header {
 
   & * {
     font-family: $sans;
+    font-weight: $medium;
+    letter-spacing: 1.4px;
   }
 
   .logo_row {
@@ -43,9 +45,9 @@ header {
       }
 
       .logo_subtitle {
-        font-size: 1rem; //0.9rem
+        font-size: 1em; //0.9rem
         font-style: italic;
-        color: $gray-500;
+        color: $white;
       }
     }
   }
@@ -55,17 +57,17 @@ header {
     justify-content: center;
     align-items: center;
     gap: 15px;
-    font-weight: $regular;
+    font-weight: $medium;
     text-transform: uppercase;
     letter-spacing: 1px;
 
     .link {
       margin: 0;
-      font-size: 1rem;
+      font-size: 1em;
     }
 
     &:hover .link {
-      opacity: 0.25;
+      opacity: 0.5;
     }
 
     .link:hover {
