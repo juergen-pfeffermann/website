@@ -14,10 +14,36 @@
   - Sergey A. Akimov
   - Peter Pohl
   publisher: 'Journal of Photochemistry and Photobiology B: Biology'
-  date: ''
+  date: '2021-11-01'
   link: https://doi.org/gqxxsc
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1011134421001998-gr5_lrg.jpg
-  extra-links:
-  - type: manubot
-  tags: null
-  _cache: 06ab2ca32b0e3b127b237170b5ce0911604988b5ab8a178b78909342f26391e7
+  _cache: fac294e982c3a84ac88a7e9a66986a6818be454733ddd56ed93da3baf091438c
+- id: doi:10.1007/s12551-021-00875-w
+  title: The energetic barrier to single-file water flow through narrow channels
+  authors:
+  - Juergen Pfeffermann
+  - Nikolaus Goessweiner-Mohr
+  - Peter Pohl
+  publisher: Biophysical Reviews
+  date: '2021-11-23'
+  link: https://doi.org/gqx4s2
+  orcid: 0000-0002-6184-6101
+  page: juergen-pfeffermann
+  _cache: 26cf3c87e6c8140e5e9bb946b8aad6c4d807ad279296a5a967755d0c7db1c4ca
+- id: doi:10.1016/j.jphotobiol.2021.112320
+  title: Photoswitching of model ion channels in lipid bilayers
+  authors:
+  - Juergen Pfeffermann
+  - Barbara Eicher
+  - Danila Boytsov
+  - Christof Hannesschlaeger
+  - Timur R. Galimzyanov
+  - Toma N. Glasnov
+  - Georg Pabst
+  - Sergey A. Akimov
+  - Peter Pohl
+  publisher: 'Journal of Photochemistry and Photobiology B: Biology'
+  date: '2021-11-01'
+  link: https://doi.org/gqxxsc
+  orcid: 0000-0002-6184-6101
+  page: juergen-pfeffermann
+  _cache: 5961656c395b69710cd4e3046c072725d2123bbf3ea2679720781012738f3b0d
