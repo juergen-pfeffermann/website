@@ -1,15 +1,15 @@
 ---
-name: The Guy
-image: images/theguy.jpg
-description: Doing the thing. Planar bilayer + KvAP!
+name: Juergen Pfeffermann
+image: images/juergen-pfeffermann.png
+description: Fluorescence Microscopy
 role: phd
 aliases:
   -
   -
 links:
-  home-page: https://www.linkedin.com/in/rohit-yadav-bab103147/?originalSubdomain=at
-  email: the.guy@jku.at
-  github: none
+  home-page: https://orcid.org/0000-0002-6184-6101
+  email: juergen.pfeffermann@jku.at
+  github: https://github.com/juergen-pfeffermann
 ---
 
 # This member is anonymous now!

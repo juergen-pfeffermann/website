@@ -3,8 +3,8 @@
 # site properties and page defaults
 title: Home
 description: This is the website.
-header: images/banner-large.png
-footer: images/banner-large.png
+header: none
+footer: none
 baseurl: /website
 
 # site social media and other links

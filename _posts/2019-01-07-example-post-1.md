@@ -1,11 +1,10 @@
 ---
-title: Example post 1
+title: Our first post
 tags:
-  - biology
-  - medicine
-  - big data
-author: Anne Chovie
-member: anne-chovie
+  - biophysics
+  - microscopy
+author: Juergen Pfeffermann
+member: juergen-pfeffermann
 ---
 
 # Heading 1
