@@ -18,10 +18,9 @@ nav:
 
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/banner-bottom.png"%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+_But my memory reaches back even to the Elder Days. Eärendil was my sire, who was born in Gondolin before its fall; and my mother was Elwing, daughter of Dior, son of Lúthien of Doriath. I have seen three ages in the West of the world, and many defeats, and many fruitless victories._ --- Elrond, Lord of Rivendell
 
 {% include section.html %}
 
@@ -30,31 +29,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Our work is made possible by funding from several organizations.
 {:.center}
 
+{% capture text %} The Austrian Science Fund (FWF) is Austria's central funding organization for basic research. Currently funded projects are:
+
+- Rohit's project
+- Simon's project
+  {:.center} {% endcapture %}
+
 {%
-include gallery.html
-style="square"
-
-image1="images/photo.jpg"
-link1="https://nasa.gov/"
-tooltip1="Cool Foundation"
-
-image2="images/photo.jpg"
-link2="https://nasa.gov/"
-tooltip2="Cool Institute"
-
-image3="images/photo.jpg"
-link3="https://nasa.gov/"
-tooltip3="Cool Initiative"
-
-image4="images/photo.jpg"
-link4="https://nasa.gov/"
-tooltip4="Cool Foundation"
-
-image5="images/photo.jpg"
-link5="https://nasa.gov/"
-tooltip5="Cool Institute"
-
-image6="images/photo.jpg"
-link6="https://nasa.gov/"
-tooltip6="Cool Initiative"
+  include feature.html
+  image="images/FWF.svg"
+  link="https://www.fwf.ac.at/en/"
+  title="FWF Austrian Science Fund"
+  text=text
 %}
