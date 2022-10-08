@@ -29,7 +29,8 @@ _But my memory reaches back even to the Elder Days. Eärendil was my sire, who w
 Our work is made possible by funding from several organizations.
 {:.center}
 
-{% capture text %} The Austrian Science Fund (FWF) is Austria's central funding organization for basic research. Currently funded projects are:
+{% capture text %}
+The Austrian Science Fund (FWF) is Austria's central funding organization for basic research. Currently funded projects are:
 
 - Rohit's project
 - Simon's project

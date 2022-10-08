@@ -57,10 +57,10 @@
 
     {%- assign publisher = citation.publisher | default: "[no publisher info]" -%}
     {%- assign date = citation.date | default: "[no date info]" -%}
-    <div class="citation_details">
+    <div class="citation_publisher-date">
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
     </div>
-
+    
     {%- if rich -%}
 
       {%- assign tags = citation.tags | default: emptyarray -%}

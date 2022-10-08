@@ -43,13 +43,25 @@
     justify-content: flex-start;
     align-items: flex-start;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
     width: 0;
     flex-grow: 1;
 
     .citation_title {
       font-weight: $semi-bold;
       font-family: $serif;
+    }
+
+    .citation_authors {
+      font-weight: $regular;
+      font-family: $serif;
+    }
+
+    .citation_publisher-date {
+      font-weight: $regular;
+      font-family: $serif;
+      font-style: italic;
+      white-space: nowrap;
     }
 
     .tags {

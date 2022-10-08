@@ -1,18 +1,18 @@
 ---
-name: Juergen Pfeffermann
-image: images/juergen-pfeffermann.png
-role: phd
+name: Full name
+image: images/image.png/jpg/tif
+role: pi/phd/programmer
 description: Fluorescence Microscopy
 aliases:
-  - Juergen
 links:
   orcid: 0000-0002-6184-6101
   email: juergen.pfeffermann@jku.at
   github: https://github.com/juergen-pfeffermann
   twitter: JPfeffermann
+published: false
 ---
 
-### It's me, I am working on this website <i class="fas fa-microscope"></i>
+### It's me, I am working on this website
 
 I am doing mainly things with microscopes. Unfortunately for the sake of this site, I do hardly take nice images.
 

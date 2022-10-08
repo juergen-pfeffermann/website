@@ -2,9 +2,6 @@
 title: Our first post
 author: Juergen Pfeffermann
 member: juergen-pfeffermann
-tags:
-  - biophysics
-  - microscopy
 ---
 
 # Heading 1
