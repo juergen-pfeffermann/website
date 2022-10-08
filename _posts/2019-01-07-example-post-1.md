@@ -1,10 +1,10 @@
 ---
 title: Our first post
+author: Juergen Pfeffermann
+member: juergen-pfeffermann
 tags:
   - biophysics
   - microscopy
-author: Juergen Pfeffermann
-member: juergen-pfeffermann
 ---
 
 # Heading 1

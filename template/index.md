@@ -11,4 +11,25 @@ header-dark: false
 footer-dark: false
 ---
 
-Some text written in Markdown for the Awards page. Does this still update?
+{% include section.html %}
+Previous section of content
+
+{%
+  include section.html
+  dark=false
+  full=true
+%}
+{%
+include banner.html
+image="images/banner-bottom.png"
+%}
+
+{% include section.html %}
+A figure. In a section. With hyperlink.
+{%
+include figure.html
+image="images/juergen-pfeffermann.png"
+caption="DalleE 2 generated this!"
+link="members/juergen-pfeffermann"
+width="50%"
+%}
